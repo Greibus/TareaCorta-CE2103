@@ -94,8 +94,13 @@ void SelectionSort(PagedArray * pagedArray, int size) {
 int main(int args, char* arg[]) {
     prueba * prueba1 = new prueba();
     prueba1->array();
+    cout<<prueba1->array()<<endl;
     PagedArray* pagedArray = new PagedArray("_DS_Store",6,256);
     pagedArray->releaseMem();
+
+
+
+
     return 0;
 
 

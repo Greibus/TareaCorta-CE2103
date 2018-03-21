@@ -1,6 +1,4 @@
-//
-// Created by gerardo on 13/03/17.
-//
+
 
 #ifndef TAREACORTA1_SIMPLEMATRIX_H
 #define TAREACORTA1_SIMPLEMATRIX_H

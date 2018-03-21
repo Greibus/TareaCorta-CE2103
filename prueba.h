@@ -13,7 +13,6 @@ class prueba {
 public:
 
     prueba() {
-    int a;
     }
 
     int *array();
